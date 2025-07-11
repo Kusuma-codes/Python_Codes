@@ -6,7 +6,7 @@ def prime(num):
             return False
     return True
 
-number = 15
+number = 101
 if prime(number):
     print(f"{number} is Prime Number.")
 else:
