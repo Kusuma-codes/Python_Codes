@@ -1,4 +1,4 @@
-sentence = "Python is a powerful language"
+sentence = "Python is lovely language"
 words = sentence.split()
 max_length = 0
 
